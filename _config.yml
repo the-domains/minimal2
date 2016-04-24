@@ -1,0 +1,28 @@
+name: minimal2
+favicon: null
+layout_spectrum: 0.7327002072706819
+typography_spectrum: 0.7652836921624839
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09265710483305156
+  lightness: 0.7146991940680891
+  saturation: 0.9071356928907335
+  rhythmicContrast: 0.8408412584103644
+purpose: []
