@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[minimal2]]></title>
         <description><![CDATA[minimal2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/minimal2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 05:26:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 05:27:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/minimal2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f20bde-e9bd-46b4-9303-4191f3461026.jpg">]]></description>
+            <link>https://thegrid.ai/minimal2/the-combination-of-the-insane-performance-of-our-m1-architec/index.html</link>
+            <guid isPermaLink="false">c0f15f73-a4fe-4fe0-acfd-ed94683435e9</guid>
+            <pubDate>Sun, 24 Apr 2016 05:27:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6a7fb7-c83a-47d7-9358-d6ea06fc241e.jpg">]]></description>
-            <link>undefinedthe-minimal-x-pro-was-built-from-the-ground-up-with-4k-in-mi/index.html</link>
+            <link>https://thegrid.ai/minimal2/the-minimal-x-pro-was-built-from-the-ground-up-with-4k-in-mi/index.html</link>
             <guid isPermaLink="false">ad515a0e-00fc-46a6-b681-8d60fec7429d</guid>
             <pubDate>Sun, 24 Apr 2016 05:26:17 GMT</pubDate>
         </item>
